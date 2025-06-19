@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="7" total="8" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="٢٠٢٥-٠٦-١٢T٢٣:٤٦:٢٧ غرينتش+٠٣:٠٠" name="Default suite" finished-at="٢٠٢٥-٠٦-١٢T٢٣:٤٦:٥٨ غرينتش+٠٣:٠٠" duration-ms="31248">
+    <groups>
+    </groups>
+    <test started-at="٢٠٢٥-٠٦-١٢T٢٣:٤٦:٢٧ غرينتش+٠٣:٠٠" name="Default test" finished-at="٢٠٢٥-٠٦-١٢T٢٣:٤٦:٥٨ غرينتش+٠٣:٠٠" duration-ms="31248">
+      <class name="NewTest.Dribbble.AppTest">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:NewTest.Dribbble.AppTest@2371aaca]" started-at="٢٠٢٥-٠٦-١٢T٢٣:٤٦:٢٧ غرينتش+٠٣:٠٠" name="mySetup" finished-at="٢٠٢٥-٠٦-١٢T٢٣:٤٦:٣٧ غرينتش+٠٣:٠٠" duration-ms="10309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="Contact_Us()[pri:6, instance:NewTest.Dribbble.AppTest@2371aaca]" started-at="٢٠٢٥-٠٦-١٢T٢٣:٤٦:٣٨ غرينتش+٠٣:٠٠" name="Contact_Us" finished-at="٢٠٢٥-٠٦-١٢T٢٣:٤٦:٥٨ غرينتش+٠٣:٠٠" duration-ms="20334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Contact_Us -->
+      </class> <!-- NewTest.Dribbble.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
